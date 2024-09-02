@@ -23,7 +23,7 @@ A brief description of the project, including the tools and techniques used.
 
 ## Tools & Technologies
 
-![Premiere Pro](https://github.com/yourusername/yourrepo/raw/main/images/premiere-pro.png)
+![Premiere Pro]([https://github.com/yourusername/yourrepo/raw/main/images/premiere-pro.png](https://github.com/kumar31kpk/praveen/blob/2a407d67d9b93bc7e4d586886621575c23c0c1d9/png/IMG_6223.JPG))
 - Adobe After Effects
 - Adobe Photoshop
 - Adobe Illustrator

@@ -13,8 +13,13 @@ I am a passionate video editor and graphic designer with a keen eye for detail a
 
 ## Projects
 
-### [Project Name 1]
-A brief description of the project, including the tools and techniques used.
+### Last Hope - Short Film
+
+**Description**: "Last Hope" is a captivating short film that explores themes of perseverance and resilience. This project showcases my skills in video editing, storytelling, and sound design.
+
+**Preview**: [Watch the preview on YouTube](https://youtu.be/7uVciZ_j20c?si=AhyNpfSlejBtcx6o)
+
+
 
 ### [Project Name 2]
 A brief description of the project, including the tools and techniques used.

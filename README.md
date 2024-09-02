@@ -23,7 +23,7 @@ A brief description of the project, including the tools and techniques used.
 
 ## Tools & Technologies
 
-- Adobe Premiere Pro
+![Premiere Pro](https://github.com/yourusername/yourrepo/raw/main/images/premiere-pro.png)
 - Adobe After Effects
 - Adobe Photoshop
 - Adobe Illustrator
